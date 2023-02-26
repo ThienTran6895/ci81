@@ -9,14 +9,7 @@ function Sum()
 	a= 6;
 let b = 6;
 
-}
-console.log(b) --> undentif
-PI = 3,15; --> k đc
 
-
-In số từ 1 --> 10
-
-fof(var i = 1; i<= 10, i++)
 
 i = 1--> log = 1
 ì = 2 --> log = 2
